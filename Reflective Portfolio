@@ -45,3 +45,17 @@ Rule based modelling - I find this the hardest to be accurate and useful, unless
 
 I found this concept of signal modelling really intresesting. As people usually use signals to draw infomation from reactions, however I never conceptualised it as rigid model. 
 Learning about this has also helped with my understanding of the business part of my degree. Signal modelling definitely would be used when companys are thinking about marketing, branding and advertising. 
+
+Week 6: 
+While this week for me was a bit harder then other weeks as I missed quite a bit of work from week 4 and week 5, it was still intresesting and still expanded my knowledge despite my lack of prior knowledge from the earlier weeks. 
+We went through Markov Models. Which I think is named after the guy who created these models: Andrey Markov. 
+
+The two i took most out of where Path Dependance and the Urn Model. 
+
+Path Dependance is the idea that what happens in a moment is determined by the events preceeding it. So the probability of an outcome can theoritcally be determined on what happened before it. 
+Examples of this could be: 
+AC vs DC electricity 
+Gas vs Electric Cars
+Common Law, where on depending on what decisions are made, earlier play a role in how future cases are determined. 
+
+The Urn Model is a system of modelling used which simulates this idea of path dependance. 
